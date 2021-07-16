@@ -12,4 +12,4 @@ The code was implemented assuming that the characters are only lowercase english
 
 ## OUTPUT (PREFIX CODES GENERATED)
 ![](output.png)<br/>
-#### As you can see that f is the most frequent character so it is assigned the shortest prefix code.
+### Since 'f' is the most frequent character so it is assigned the shortest prefix code.
